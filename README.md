@@ -7,8 +7,8 @@ Powered by [BootstrapCDN](https://getbootstrap.com), [PopperJS](https://popper.j
 
 ## To Do List:
 - [x] Integrer bootstrap, jquery et popper
-- [ ] Mettre en place la page nous-contacter
-- [ ] Régler le probleme avec l'iframe
+- [x] Mettre en place la page nous-contacter
+- [x] Régler le probleme avec l'iframe
 
 ## Warnings :
 Attention si vous utiliser **Netbeans** pour parcourrir et/ou modifier le projet il génére de fauses erreurs.
