@@ -1,7 +1,9 @@
-<!DOCTYPE html>
+<?php
+echo '<!DOCTYPE html>
 <!-- 
-     Page web Nolark
-     Auteur : Thibault et Nassim
+     Page web créé dans le cadre du cours de PPE PHP le 03/04/2020
+     Auteur : Luke DUSSART
+     Email : lukedussart@hotmail.fr
 -->
 
 <html lang="fr-FR">
@@ -12,14 +14,8 @@
         <meta name="description" content="Découvrez des casques moto dépassant même les exigences des tests de sécurité. Tous les casques Nolark au meilleur prix et avec en prime la livraison gratuite !">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="../css/styles.css" rel="stylesheet" type="text/css">
-        <link href="../css/casques.css" rel="stylesheet" type="text/css">
+        <link href="../css/inscrit.css" rel="stylesheet" type="text/css">
         <link rel="icon" href="../favicon.ico">
-    </head>
-    <body>
-        <?php
-            include('../includes/header.html.inc.php');
-            include('../includes/casques.inc.php');
-            include('../includes/footer.inc.php');
-        ?>
-    </body>
-</html>
+    </head>';
+$queries = 0;
+
