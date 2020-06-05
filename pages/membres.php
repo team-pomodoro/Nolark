@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <!-- 
-     Page web créé dans le cadre du cours de PPE PHP le 03/04/2020
-     Auteur : Luke DUSSART
-     Email : lukedussart@hotmail.fr
+     Page web de Nolark
+     Auteur : Nassim et Thibault
 -->
 <?php
 session_start();
