@@ -1,0 +1,64 @@
+#inscrit h1 {
+    margin-top: 10px;
+    text-align: left;
+}
+
+#inscrit form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 50px;
+    margin-top: 10px;
+}
+
+#inscrit form fieldset {
+    padding: 10px;
+}
+
+#formulaire legend {
+    padding: 0 5px;
+    font-weight: bold;
+}
+
+#formulaire label {
+    margin-right: 10px;
+}
+
+#formulaire input{
+    flex: 1;
+}
+
+#formulaire div {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+#formulaire fieldset {
+    width: fit-content;
+    margin: auto;
+}
+
+#protect legend {
+    padding: 0 5px;
+    font-weight: bold;
+}
+
+#protect label {
+    margin-right: 10px;
+}
+
+#protect input{
+    flex: 1;
+}
+
+#protect div {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+#protect fieldset {
+    width: fit-content;
+    margin: auto;
+}
