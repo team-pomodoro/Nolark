@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- 
-     Page web de Nolark
+     Page web Nolark
      Auteur : Nassim et Thibault
 -->
 <?php
